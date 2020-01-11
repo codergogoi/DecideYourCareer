@@ -1,0 +1,6 @@
+framework module Pods_RxAnswers {
+  umbrella header "Pods-RxAnswers-umbrella.h"
+
+  export *
+  module * { export * }
+}
